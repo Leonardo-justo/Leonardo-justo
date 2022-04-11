@@ -2,11 +2,11 @@
 
 
 <h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Leonardo Justo</h1>
-<p align = "justify">Desenvolvedor junior, iniciando a longa caminhada dos dev.</p>
+<p align = "justify">Desenvolvedor junior, começando a longa caminhada dos dev.</p>
 
 Atualmente trabalho na [ Sifat Sistemas ](https://sifat.com.br/)
 
-[![ Linkedin Badge ](https://img.shields.io/badge/-leonardoJusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-justo-b10b6b199/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![ Linkedin Badge ](https://img.shields.io/badge/-leonardoJusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-justo-b10b6b199/)](https://www.linkedin.com/in/leonardo-justo-b10b6b199/)
 ![ Selo do Gmail ](https://img.shields.io/badge/-leonardo2justo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo2justo@gmail.com)
 
 ##  🚀💻 Tecnologias e Ferramentas
