@@ -14,9 +14,6 @@ Atualmente trabalho na [ Sifat Sistemas ](https://sifat.com.br/)
 ![ JAVA ](https://img.shields.io/badge/-JAVA-red?style=flat-square&logo=java)
 ![ Flutter ](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![ MySQL ](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![ Git ](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ GitLab ](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ##  ⚡ Estatísticas do GitHub
 
