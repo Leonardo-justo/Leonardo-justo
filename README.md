@@ -2,7 +2,8 @@
 
 
 <h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Leonardo Justo</h1>
-<p align = "justify">Desenvolvedor junior, começando a longa caminhada dos dev.</p>
+<p align = "justify">Desenvolvedor Java/Flutter </p>
+
 
 Atualmente trabalho na [ Sifat Sistemas ](https://sifat.com.br/)
 
